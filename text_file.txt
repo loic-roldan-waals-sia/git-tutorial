@@ -2,4 +2,4 @@ This file contains some content.
 
 Git treats files like *.py files like text.
 
-Someone else's bad code
+Someone else's bad code, adding awesome code and more changes
