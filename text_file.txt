@@ -5,3 +5,5 @@ Git treats files like *.py files like text.
 Someone else's bad code
 
 super important bug fix
+
+pretty code that works (with the bugfix)
